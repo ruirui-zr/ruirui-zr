@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 This is Rui, an aspiring Software Engineer.
+🌱 I am currently learning at Brainstation and working on several projects while learning new techniques.
+
+👩‍💻 I’m currently working on my first project — an interactive planner that reminds you of your life goals and helps you prioritize important tasks more effectively. I was inspired by Stephen Covey’s book The 7 Habits of Highly Effective People, which provides valuable insights into time management and goal achievement. My app aligns with the book's philosophy, aiming to help users make better use of their time and ultimately achieve their life goals.
+
+📫 How to reach me:
+Email: ruizhang0412@gmail.com
+Instagram: ruirui.zr
+WeChat: R1728609024
 
 <!--
 **ruirui-zr/ruirui-zr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
