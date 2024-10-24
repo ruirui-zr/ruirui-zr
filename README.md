@@ -6,7 +6,6 @@
 📫 How to reach me:
 Email: ruizhang0412@gmail.com
 Instagram: ruirui.zr
-WeChat: R1728609024
 
 <!--
 **ruirui-zr/ruirui-zr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
