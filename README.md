@@ -1,7 +1,9 @@
-## Hi there 👋 This is Rui, an aspiring Software Engineer.
-🌱 I'm currently taking a Software Engineer program at Brainstation, learning about font-end and back-end techniques.
+## Hi there 👋 This is Rui, an aspiring Data Analyst passionate about programming.
+🌱 Currently, I am enrolled in a Data Analytics bootcamp, where I am continuously developing my skills in MySQL, Power BI, Tableau, and Python.
 
-👩‍💻 I’m currently working on my first project — an interactive planner that reminds you of your life goals and helps you prioritize important tasks more effectively. I was inspired by Stephen Covey’s book The 7 Habits of Highly Effective People, which provides valuable insights into time management and goal achievement. My app aligns with the book's philosophy, aiming to help users make better use of their time and ultimately achieve their life goals.
+🌱 I earned a Software Engineering diploma from BrainStation, where I learned various front-end(HTML5, CSS, Sass, JavaScript, React.js) and back-end techniques(Node.js, Express, RESTful API, Web API). I’ve applied these skills to my web projects, which you can explore in my repositories.
+
+👩‍💻 I’m currently working on a side project during my free time — an interactive planner designed to remind you of your life goals and help you prioritize important tasks more effectively. The project is inspired by Stephen Covey’s book The 7 Habits of Highly Effective People, which offers valuable insights into time management and goal achievement. My app aligns with the book's philosophy, aiming to help users make better use of their time and ultimately achieve their life goals.
 
 📫 How to reach me:
 Email: ruizhang0412@gmail.com
