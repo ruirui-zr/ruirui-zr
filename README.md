@@ -1,6 +1,8 @@
 ## Hi there 👋 This is Rui, an aspiring Data Analyst passionate about programming.
 🌱 Currently, I am enrolled in a Data Analytics bootcamp, where I am continuously developing my skills in MySQL, Power BI, Tableau, and Python.
 
+📊 Here's one of the Power BI dashboards I've been working on: https://app.powerbi.com/groups/me/reports/f03f577a-6fb5-4fd1-b48c-79c8b582a0ca/253380f08a4655c3094c?experience=power-bi
+
 🌱 I earned a Software Engineering diploma from BrainStation, where I learned various front-end(HTML5, CSS, Sass, JavaScript, React.js) and back-end techniques(Node.js, Express, RESTful API, Web API). I’ve applied these skills to my web projects, which you can explore in my repositories.
 
 👩‍💻 I’m currently working on a side project during my free time — an interactive planner designed to remind you of your life goals and help you prioritize important tasks more effectively. The project is inspired by Stephen Covey’s book The 7 Habits of Highly Effective People, which offers valuable insights into time management and goal achievement. My app aligns with the book's philosophy, aiming to help users make better use of their time and ultimately achieve their life goals.
